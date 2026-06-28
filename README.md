@@ -2,13 +2,6 @@
 AI-Powered Customer Support Automation System using LangGraph, Ollama (qwen2.5:3b model), SQLite 
 # Assignment 2 — AI-Powered Customer Support Automation System
 
-> **Name:** Avinash  
-> **Reg No:** 24BCA7748  
-> **Email:** avinash.24bca7748@vitapstudent.ac.in  
-> **Course:** IBM Agentic AI  
-
----
-
 ## Overview
 
 An AI-powered Customer Support Automation System built using **LangGraph + Ollama (qwen2.5:3b) + SQLite**.
