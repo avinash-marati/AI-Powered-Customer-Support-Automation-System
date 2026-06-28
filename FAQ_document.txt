@@ -1,0 +1,217 @@
+ABC Technologies - Frequently Asked Questions (FAQ)
+
+Version: 1.0
+
+---
+
+1. Account Related Questions
+
+---
+
+Q1. How do I reset my password?
+
+A: Click the "Forgot Password" option on the login page and follow the instructions sent to your registered email.
+
+---
+
+Q2. How do I change my account email address?
+
+A: Go to Profile Settings and select "Update Email Address".
+
+---
+
+Q3. How do I update my profile information?
+
+A: Navigate to Account Settings and edit the required fields.
+
+---
+
+Q4. Can I deactivate my account temporarily?
+
+A: Yes. Contact the Account Support team for assistance.
+
+---
+
+Q5. How do I permanently close my account?
+
+A: Submit an account closure request through customer support. Supervisor approval is required.
+
+---
+
+2. Subscription and Pricing Questions
+
+---
+
+Q6. What subscription plans are available?
+
+A: ABC Technologies offers Basic, Professional, and Enterprise plans.
+
+---
+
+Q7. Can I upgrade my subscription plan?
+
+A: Yes. You can upgrade your plan at any time from the subscription settings page.
+
+---
+
+Q8. Can I downgrade my subscription?
+
+A: Yes. Downgrades become effective from the next billing cycle.
+
+---
+
+Q9. Do you offer a free trial?
+
+A: Yes. New users receive a 14-day free trial.
+
+---
+
+Q10. Do annual subscriptions receive discounts?
+
+A: Yes. Annual plans receive discounted pricing compared to monthly plans.
+
+---
+
+3. Billing Questions
+
+---
+
+Q11. What payment methods are accepted?
+
+A: Credit Cards, Debit Cards, PayPal, and Bank Transfers for Enterprise customers.
+
+---
+
+Q12. How can I download my invoices?
+
+A: Invoices can be downloaded from the Billing section of your account.
+
+---
+
+Q13. How do I request a refund?
+
+A: Contact Billing Support with your subscription details and reason for the request.
+
+---
+
+Q14. How long does refund processing take?
+
+A: Approved refunds are usually processed within 5-7 business days.
+
+---
+
+Q15. Why was my payment declined?
+
+A: Payment failures may occur because of insufficient funds, expired cards, or bank restrictions.
+
+---
+
+4. Technical Support Questions
+
+---
+
+Q16. I forgot my password. What should I do?
+
+A: Use the password reset option available on the login page.
+
+---
+
+Q17. My application crashes when uploading files.
+
+A: Verify that the file size is below 100 MB and uses a supported format.
+
+---
+
+Q18. Which file formats are supported?
+
+A: PDF, DOCX, XLSX, PNG, and JPG.
+
+---
+
+Q19. What should I do if the application is running slowly?
+
+A: Check your internet connection and clear your browser cache.
+
+---
+
+Q20. Which browsers are supported?
+
+A: Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+---
+
+Q21. What does Error Code 101 mean?
+
+A: Error 101 indicates an invalid username or password.
+
+---
+
+Q22. What does Error Code 301 mean?
+
+A: Error 301 indicates a database connection failure.
+
+---
+
+5. Security and Privacy Questions
+
+---
+
+Q23. Is my data secure?
+
+A: Yes. Customer data is stored using industry-standard security practices.
+
+---
+
+Q24. Does ABC Technologies sell customer data?
+
+A: No. Customer information is never sold to third parties.
+
+---
+
+Q25. Who can access my account information?
+
+A: Only authorized employees can access customer information when required.
+
+---
+
+Q26. How long is customer data stored?
+
+A: Account data may be retained for up to 90 days after account closure.
+
+---
+
+6. Support Questions
+
+---
+
+Q27. How can I contact customer support?
+
+A: Customers can contact support through email, chat, or the support portal.
+
+---
+
+Q28. What are support working hours?
+
+A: Support is available Monday to Friday from 9:00 AM to 6:00 PM.
+
+---
+
+Q29. How quickly will I receive a response?
+
+A: Response times depend on your subscription plan.
+
+Basic Plan: 24 hours
+
+Professional Plan: 8 hours
+
+Enterprise Plan: 2 hours
+
+---
+
+Q30. Which requests require supervisor approval?
+
+A: Refund requests, account closure requests, subscription cancellations, compensation requests, and management escalations require supervisor approval.
+
+---
+
+## End of FAQ Document

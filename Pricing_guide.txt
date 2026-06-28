@@ -1,0 +1,197 @@
+ABC Technologies - Pricing Guide
+
+Version: 1.0
+
+---
+
+1. Overview
+
+---
+
+ABC Technologies provides cloud-based business management software for organizations of different sizes.
+
+The company offers three subscription plans:
+
+1. Basic Plan
+2. Professional Plan
+3. Enterprise Plan
+
+---
+
+2. Basic Plan
+
+---
+
+Price:
+$10 per month
+
+Suitable For:
+
+* Students
+* Freelancers
+* Small businesses
+
+Features:
+
+* Up to 5 users
+* Basic reporting dashboard
+* Email support
+* 5 GB cloud storage
+* Standard security features
+
+Support Response Time:
+Within 24 hours
+
+---
+
+3. Professional Plan
+
+---
+
+Price:
+$25 per month
+
+Suitable For:
+
+* Growing businesses
+* Startups
+* Medium-sized teams
+
+Features:
+
+* Up to 25 users
+* Advanced analytics
+* Priority email support
+* Team collaboration tools
+* 50 GB cloud storage
+* Custom reports
+
+Support Response Time:
+Within 8 hours
+
+---
+
+4. Enterprise Plan
+
+---
+
+Price:
+Custom Pricing
+
+Suitable For:
+
+* Large organizations
+* Enterprises
+* Government agencies
+
+Features:
+
+* Unlimited users
+* Dedicated account manager
+* Advanced security controls
+* Custom integrations
+* Unlimited cloud storage
+* Premium analytics
+* API access
+* 24/7 priority support
+
+Support Response Time:
+Within 2 hours
+
+---
+
+5. Annual Subscription Discount
+
+---
+
+Customers choosing yearly billing receive:
+
+Basic Plan:
+10% discount
+
+Professional Plan:
+15% discount
+
+Enterprise Plan:
+Custom discounts based on agreement
+
+---
+
+6. Additional Services
+
+---
+
+Data Migration Service:
+$50 one-time fee
+
+Custom Training Session:
+$100 per session
+
+Priority Onboarding:
+$150 one-time fee
+
+Additional Storage:
+$5 per 10 GB per month
+
+---
+
+7. Payment Methods
+
+---
+
+The following payment methods are accepted:
+
+* Credit Card
+* Debit Card
+* PayPal
+* Bank Transfer (Enterprise only)
+
+---
+
+8. Upgrade and Downgrade Policy
+
+---
+
+Customers can upgrade their subscription at any time.
+
+Plan upgrades take effect immediately.
+
+Plan downgrades are applied at the start of the next billing cycle.
+
+---
+
+9. Free Trial
+
+---
+
+New customers are eligible for a 14-day free trial.
+
+No credit card is required during the trial period.
+
+After the trial expires, customers may choose any available subscription plan.
+
+---
+
+10. Frequently Asked Pricing Questions
+
+---
+
+Q: Which plan is best for small businesses?
+
+A: The Basic Plan is recommended for small businesses with limited users.
+
+Q: Does the Enterprise Plan have fixed pricing?
+
+A: No. Enterprise pricing depends on business requirements.
+
+Q: Can I change my plan later?
+
+A: Yes. Customers can upgrade or downgrade their subscription.
+
+Q: Are there discounts for annual billing?
+
+A: Yes. Annual subscriptions receive discounted pricing.
+
+---
+
+## End of Pricing Guide
